@@ -4,9 +4,9 @@ My solutions of problems raised on "Algorithms and data structures" course condu
 
 This course took place between March and June 2021.
 
-Lab1-Lab4: Sorting algorithms
-Lab5-Lab6: Dynamic algorithms
-Lab7: Greedy algorithms
-Lab8-Lab9: Unweighted graphs
-Lab10: Weighted graphs
-Lab11: BST and maxflow
+Lab1-Lab4: Sorting algorithms   
+Lab5-Lab6: Dynamic algorithms   
+Lab7: Greedy algorithms   
+Lab8-Lab9: Unweighted graphs    
+Lab10: Weighted graphs    
+Lab11: BST and maxflow    
