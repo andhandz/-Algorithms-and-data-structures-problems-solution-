@@ -1,6 +1,6 @@
 # -Algorithms-and-data-structures-problems-solution-
 
-My solutions of problems raised on "Algorithms and data structures" course conducted by one of the most succesful polish data scientist Piotr Faliszewski.
+My solutions of problems raised on "Algorithms and data structures" course conducted by one of the most succesful polish data scientist <a href="https://pl.wikipedia.org/wiki/Piotr_Faliszewski">Piotr Faliszewski</a>.
 
 This course took place between March and June 2021.
 
